@@ -34,7 +34,7 @@ This repository contains a collection of mini-projects and experiments built whi
 - JSX
 - C++
 
-## 🛠️ Frameworks Used
+## 🛠️ Software/Environment Used
 - Visual Studio Code
 - Visual Studio
 - Tortoise SVN
@@ -43,3 +43,4 @@ This repository contains a collection of mini-projects and experiments built whi
 These projects were made for learning and practice. They may be simple, but they reflect progress and exploration across multiple stacks.
 
 ## 📚 More coming soon!
+
